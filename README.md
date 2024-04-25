@@ -4,6 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+profile!+🏡" />
 </h1>
 <br/>
+<div align="center">
+ 
+ 🔭 I’m currently working on **3DViewer**
+ 
+ 🌱 I’m currently learning **OpenGL, GLSL, CMake**
+
+💬 Ask me about anything **[here](https://github.com/Albion5/Albion5/issues)**
+
+⚡ Fun fact **Octopuses 🐙 can deceive their predators by mimicking the enemies of those predators**
+<br/>
+<hr/>
+<br/>
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,markdown,git,postgresql" /><br>
