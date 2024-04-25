@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+profile!+🏡" />
 </h1>
-<br/>
+<h3 align="center">Digital craftsman👩🏻‍💻</h3>
 <div align="center">
  
  🔭 I’m currently working on **3DViewer**
@@ -12,7 +12,7 @@
 
 💬 Ask me about anything **[here](https://github.com/Albion5/Albion5/issues)**
 
-⚡ Fun fact **Octopuses 🐙 can deceive their predators by mimicking the enemies of those predators**
+⚡ Fun fact **Octopuses can deceive their predators by mimicking the enemies of those predators**
 <br/>
 <hr/>
 <br/>
