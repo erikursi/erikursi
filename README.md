@@ -8,7 +8,7 @@
  
  🔭 I’m currently working on **3DViewer**
  
- 🌱 I’m currently learning **OpenGL, GLSL, CMake**
+ 🌱 I’m currently learning **OpenGL, GLSL, CMake, Flutter**
 
 💬 Ask me about anything **[here](https://github.com/erikursi/erikursi/issues)**
 
@@ -18,8 +18,8 @@
 <br/>
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,markdown,git,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,docker,cmake,postman,visualstudio,pycharm,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,markdown,git,postgresql,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,docker,cmake,postman,visualstudio,pycharm,androidstudio,notion" /><br>
 </div>
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
