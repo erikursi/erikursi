@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Albion5.Albion5&right_color=%23215efa&left_color=%23011735" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erikursi.erikursi&right_color=%23215efa&left_color=%23011735" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+profile!+🏡&color=215efa" />
@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **OpenGL, GLSL, CMake**
 
-💬 Ask me about anything **[here](https://github.com/Albion5/Albion5/issues)**
+💬 Ask me about anything **[here](https://github.com/erikursi/erikursi/issues)**
 
 ⚡ Fun fact **Octopuses can deceive their predators by mimicking the enemies of those predators**
 <br/>
@@ -24,10 +24,10 @@
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albion5&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikursi&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Albion5/Albion5/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/erikursi/erikursi/output/github-contribution-grid-snake.svg" />
 </div>
