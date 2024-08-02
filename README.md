@@ -27,6 +27,19 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikursi&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/>
+<h2 align="center">🕹️ Examples of Work 🕹️</h2>
+<h3 align=center> <a href="https://github.com/erikursi/3DViewer-in-CPP"> 3DViewer </a> </h3>
+<div align=center>
+  <img width=325 align="center" src="https://github.com/erikursi/erikursi/blob/main/3DViewerDemo.gif" />
+</div>
+<br/>
+<h3 align=center> <a href="https://github.com/erikursi/Scientific-Deposit-Credit-Calculator-in-CPP"> Advanced Calculator </a> </h3>
+<div align=center>
+  <img width=325 align="center" src="https://github.com/erikursi/Scientific-Deposit-Credit-Calculator-in-CPP/blob/main/misc/02.png" /><br>
+  <img width=325 align="center" src="https://github.com/erikursi/Scientific-Deposit-Credit-Calculator-in-CPP/blob/main/misc/10.png" /><br>
+  <img width=325 align="center" src="https://github.com/erikursi/Scientific-Deposit-Credit-Calculator-in-CPP/blob/main/misc/12.png" />
+</div>
+<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/erikursi/erikursi/output/github-contribution-grid-snake.svg" />
